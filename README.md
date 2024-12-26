@@ -11,5 +11,6 @@ projeto aindda em fase de desenvolvimento (Têm pontos a ser melhorados - "motiv
 ![ia](https://github.com/user-attachments/assets/eb3150c5-1785-41ae-8091-9cff51ebfdeb)
 
 ![Excel - tb1_gastos](https://github.com/user-attachments/assets/d43f5fc5-b99a-454c-a5a9-e854b708654f)
+[PDF](http://127.0.0.1:5501/docs/Desafio%20de%20Projeto%20Dashboard.pdf)
 
 [^1]: Último Desafio de Projeto com o Expert Felipe Aguiar - Bootcamp Caixa - IA Generativa com Microsoft Copilot. 
